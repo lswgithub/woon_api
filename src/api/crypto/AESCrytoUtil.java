@@ -50,7 +50,7 @@ public class AESCrytoUtil {
 		return encrytedText;
 	}
 	
-	//secureKey �� Encryte Text �� �����Ѵ�.
+	//secureKey Encryte Text
 	public Map<String, String> encryptReturnSecureKey(String plainText) {
 		Map<String, String> result = new HashMap<String, String>();
 		Key secureKey = null;
