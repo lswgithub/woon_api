@@ -1,0 +1,19 @@
+-preparation Grid
+||Common Question||Project1||Project2||Project3||
+|Challenges||||
+|Mistakes/failures||||
+|Enjoyed||||
+|Leadership||||
+|Conflicts||||
+|What you'd Do Differently||||
+
+-Give Structured Answers
+ nugget first and S.A.R(Situation,Action,Result)
+ .nugget : what your response will be about..
+ .Situation:On my operationg systems project...
+ .Action:I didn't want to write him off completely yet..
+ .Result: with his confidence raised,..
+ 
+ || ||Nuget||Situation||Actions(s)||Result||What It says||
+ |Story 1| | | 1.., 2..,. 3| |
+
