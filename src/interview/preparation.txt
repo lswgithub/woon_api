@@ -16,4 +16,28 @@
  
  || ||Nuget||Situation||Actions(s)||Result||What It says||
  |Story 1| | | 1.., 2..,. 3| |
+ 
+ -Technical Questions
+ 1) Core Data Structures, Algorithms, and Concepts
+   a. Data Structure
+       Linked Lists
+       Trees, tries & Graphs
+       Stacks & Queues
+       Heaps
+       Vectors/ArrayLists
+       Hash Tables
+   b. Algorithm
+       Breadth-First Search
+       Depth-First Search
+       Binary Search
+       Merge Sort
+       Quick Sort
+   c. Concepts
+       Bit Manipulation
+       Memory (Stack vs Heap)
+       Recursion(재귀)
+       Dynamin Programming
+       Big O time & space
+       
+   
 
