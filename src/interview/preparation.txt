@@ -39,5 +39,34 @@
        Dynamin Programming
        Big O time & space
        
-   
+ -Working Through a Problem
+ 1) Listen (Carefully)
+ 2) Example
+ 3) Brute Force(무차별?계획없는..) 가능한 빨리 해결할 수 있는 방법을 찾는다. 알고리즘이나 프로세서등은 일단 개나 주고..
+ 4) Optimize : 돌아봐라. 진행이 되지 않거나(병목), 불필요한 또는 중복된 일을.. BUD
+ 5) Walk Through : your approach in detail.
+ 6) Implement : write beautiful code
+ 7) Test
+ ※BUD Optimization (Bottlenecks, Unnecessary Work, Duplicated Work)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 

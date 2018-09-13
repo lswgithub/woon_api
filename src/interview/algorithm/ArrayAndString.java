@@ -48,7 +48,7 @@ public ArrayAndString {
         }
     }
     
-    //check resizing factory
+    //check resizing factory > ResizableArrays
     ArrayList<String testArrayList (String[] words, String[] more) {
         ArrayList<String> sentence = new ArrayList<String>();
         for(String x : words) sentence.add(x);
@@ -79,6 +79,33 @@ public ArrayAndString {
             }
         }
     }
+    
+    //StringBuilder
+    //문자를 연결(병합)하려고 할때 String 사용시 ...
+    //배열 첫번째 X문자들 복사, 두번째 2X... 3X...O(xn2)
+    String joinWords(String[] words) {
+        String joinWord = "";
+        for(String word : words) {
+            joinWord = joinWord + word;
+        }
+        
+        return joinWord;
+    }
+    
+    //StringBuilder 사용 시 위의 문제를 해결할 수 있다.
+    String joinString(String[] words) {
+        StringBuilder sentence = new StringBuilder();
+        for(String word : words) {
+            sentence.append(word);
+        }
+        return sentence.toString();
+    }
+    
+    
+    
+    
+    
+    
     
 }
 
