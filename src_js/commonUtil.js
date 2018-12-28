@@ -38,3 +38,12 @@ function getDate(dateObj, format) {
 		}
 		return date;
 	}
+
+/* name : getEndOfMonthDay 
+** desc : 해당 월의 마지막 날을 리턴한다. 
+** params :(month, year)
+*/ 
+
+function getEndOfMonthDay(m, y) { 
+    return m===2?y&3||!(y%25)&&y&15?28:29:30+(m+(m>>3)&1);
+}
